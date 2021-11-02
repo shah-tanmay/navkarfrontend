@@ -1,0 +1,14 @@
+.product-card-main {
+	background-color: #efedee;
+}
+.product-card-title {
+	margin-top: 20px;
+	font-family: "Roboto";
+	display: flex;
+	justify-content: center;
+	padding-bottom: 30px;
+}
+.product-card-image {
+	width: 255px;
+	height: 305px;
+}

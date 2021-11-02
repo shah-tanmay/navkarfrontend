@@ -1,0 +1,32 @@
+.service-cards-main {
+	background-color: white;
+	width: 30%;
+}
+.service-card-image {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+.service-card-title {
+	display: flex;
+	margin-top: 20px;
+	justify-content: center;
+	font-family: "Roboto";
+	font-weight: bolder;
+	font-size: 30px;
+	color: #282828;
+}
+.service-card-content {
+	color: #4e4e4e;
+	font-family: "Roboto";
+	font-size: 20px;
+	width: 80%;
+	text-align: center;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+.service-card-image > .MuiSvgIcon-fontSizeLarge {
+	font-size: 4rem !important;
+}

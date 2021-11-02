@@ -1,0 +1,85 @@
+.contactus-main {
+	background-color: #efedee;
+	padding-top: 30px;
+}
+.contactus-title {
+	font-family: "Roboto";
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+	width: 80%;
+	margin: auto;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+	padding-bottom: 20px;
+}
+.contactus-subtitle {
+	font-family: "Roboto";
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	width: 90%;
+	font-size: 20px;
+	margin-top: 20px;
+}
+.contactus-form {
+	display: flex;
+	justify-content: center;
+	width: 80%;
+	margin: auto;
+	margin-top: 50px;
+	padding-bottom: 50px;
+}
+.left-title {
+	font-family: "Roboto";
+	font-size: 20px;
+	font-weight: bolder;
+}
+.flex {
+	display: flex;
+}
+.contact-us-location,
+.contact-us-phone,
+.contact-us-mail {
+	margin-top: 30px;
+}
+.contact-info-text {
+	font-size: 18px;
+	font-family: "Roboto";
+	max-width: 70%;
+	margin-left: 20px;
+}
+.contactus-form-left {
+	width: 50%;
+}
+.contact-input {
+	color: #222222;
+	margin-bottom: 20px;
+	padding: 15px 0;
+	text-indent: 20px;
+	width: 400px;
+	border: none;
+	outline: none;
+	font-family: "Roboto";
+	font-size: 15px;
+}
+textarea {
+	color: #222222;
+	margin-bottom: 20px;
+	padding: 15px 0;
+	text-indent: 20px;
+	width: 400px;
+	border: none;
+	outline: none;
+	font-family: "Roboto";
+	font-size: 15px;
+	height: 130px;
+}
+.send-message {
+	background-color: #e16e7b;
+	color: #fff !important;
+	font-size: 16px;
+	border: none;
+	float: right;
+	padding: 10px 30px;
+	width: auto;
+}

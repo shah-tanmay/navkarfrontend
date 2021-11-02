@@ -1,0 +1,31 @@
+.service-cards {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 40px;
+}
+.service-main {
+	background-color: #efedee;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.service-title {
+	font-family: "Roboto";
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	width: 90%;
+	font-size: 25px;
+	font-weight: bolder;
+	color: #282828;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+	padding-bottom: 10px;
+}
+.service-subtitle {
+	font-family: "Roboto";
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	width: 90%;
+	font-size: 20px;
+	margin-top: 20px;
+}
